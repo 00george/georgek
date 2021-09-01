@@ -14,6 +14,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@babylonjs/core": "^4.2.0",
     "@inlet/react-pixi": "^6.6.5",
     "gatsby": "^3.11.0",
     "gatsby-plugin-image": "^1.11.0",
